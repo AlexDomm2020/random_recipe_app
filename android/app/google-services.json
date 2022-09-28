@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17225736182",
+    "project_id": "randomrecipeauth",
+    "storage_bucket": "randomrecipeauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17225736182:android:411a168ed992ef9e7571d7",
+        "android_client_info": {
+          "package_name": "com.example.lyrics_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17225736182-klbs5rr17aukbhi8dg9raidf43kojvai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMW3HHicEDJUX_SQEXzoCNFpb5p60mhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17225736182-klbs5rr17aukbhi8dg9raidf43kojvai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
